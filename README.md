@@ -6,5 +6,6 @@ Financial report from sms and mail data
 4. Extracting it's values from the body_translated column
 5. Data Manipulation
 6. Creating the final table with all the non spam messages along with their extracted financial transaction details.
+   <br>
 Libraries used in this:
 pandas, re (Regular Expression), googletrans
